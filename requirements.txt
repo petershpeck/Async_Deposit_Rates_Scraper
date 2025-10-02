@@ -1,0 +1,9 @@
+playwright==1.42.0
+pandas
+beautifulsoup4
+lxml
+aiofiles
+openpyxl
+python-dotenv
+playwright-stealth
+pdfplumber
